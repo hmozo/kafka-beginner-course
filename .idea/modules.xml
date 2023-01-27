@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka-basics/kafka-basics.iml" filepath="$PROJECT_DIR$/kafka-basics/kafka-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-beginner-course.iml" filepath="$PROJECT_DIR$/.idea/kafka-beginner-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-opensearch/kafka-consumer-opensearch.iml" filepath="$PROJECT_DIR$/kafka-consumer-opensearch/kafka-consumer-opensearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" filepath="$PROJECT_DIR$/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" />
+    </modules>
+  </component>
+</project>
